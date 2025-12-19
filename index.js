@@ -28,7 +28,7 @@ const markCommit = (x, y) => {
 };
 
 
-markCommit(0, 0);
+// markCommit(0, 0);
 
 
 
