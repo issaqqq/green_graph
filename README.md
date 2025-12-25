@@ -45,19 +45,3 @@ This project relies on the following npm packages:
 
 1.  **Commit Script:** Ensure you have your main JavaScript entry point (e.g., `index.js`) configured to manage your commits.
 2.  **Data Store:** The script uses a JSON file (e.g., `data.json`) to store commit timestamp data.
-
-## 🔮 Future Improvements
-
-There is always room for improvement! Here are some ideas for extending the project:
-
-* **Custom Patterns:** Experiment with algorithms to spell out names or draw designs on the graph.
-* **Density Control:** Adjust the number of commits per day to control the specific shade of green.
-* **Input Strings:** Create a function to map text input strings directly to X-Y coordinates on the contribution graph.
-
-## 👏 Credits
-
-Huge thanks to **[Akshay Saini](https://github.com/akshaymarch7)** for the original video and inspiration behind this project.
-
-## 📄 License
-
-This project is licensed under the ISC License.
