@@ -21,14 +21,15 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/TRASH_KEY/goGreen.git](https://github.com/TRASH_KEY/goGreen.git)
-    cd goGreen
+    git clone [https://github.com/issaqqq/green_graph.git]
+    cd green_graph
     ```
 
 2.  **Install Dependencies**
     Install the required npm modules (`moment`, `simple-git`, `random`, `jsonfile`) to get everything running smoothly:
     ```bash
-    npm install
+    npm init -y
+    npm install moment simple-git random
     ```
 
 ## 📦 Dependencies
@@ -42,7 +43,7 @@ This project relies on the following npm packages:
 
 ## ⚙️ Configuration
 
-1.  [cite_start]**Commit Script:** Ensure you have your main JavaScript entry point (e.g., `index.js`) configured to manage your commits[cite: 7].
+1.  **Commit Script:** Ensure you have your main JavaScript entry point (e.g., `index.js`) configured to manage your commits[cite: 7].
 2.  **Data Store:** The script uses a JSON file (e.g., `data.json`) to store commit timestamp data.
 
 ## 🔮 Future Improvements
