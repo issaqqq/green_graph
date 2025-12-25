@@ -4,11 +4,6 @@ import simpleGit from "simple-git";
 
 
 const path = "./data.json";
-// const date = moment().subtract(10,'d').format();
-
-// const data = {
-//     date: date,
-// };
 
 const markCommit = (x, y) => {
     const date = moment()
@@ -28,7 +23,7 @@ const markCommit = (x, y) => {
 };
 
 
-// markCommit(0, 0);
+markCommit(0, 0);
 
 
 
